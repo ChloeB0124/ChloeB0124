@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChloeB0124
+- 👋 Hi, I’m Chloe Bui
 - 👀 I’m interested in everything that I don't know about yet
 - 🌱 I’m currently praticing to advance my Python, R, and data visualization tools
 - 💞️ I’m looking to find jobs/interships in all positions as Business Analyst, Data Analyst, and BI Analyst
